@@ -1,1 +1,1 @@
-# titanic
+Determine the variables that most strongly correlated with whether someone survived or died in the Titanic ship wreck and construct/choose the best the model for predicting whether someone survived or died. # titanic
